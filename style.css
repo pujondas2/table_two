@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #20273A;
+    color: #ffffff;
+}
+
+table {
+    width: 600px;
+    margin: 200px auto;
+}
+
+.thead td {
+    color: #208bce;
+}
+
+tr .red {
+    color: #FE5A75;
+}
+
+tr td {
+    padding: 10px 10px;
+    color: #b1a5a9;
+}
+
+.bg_dark {
+    background-color: #313C4E;
+}
+
+.bg_deep {
+    background-color: #2D3447;
+}
